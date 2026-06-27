@@ -25,3 +25,5 @@ A comprehensive, full-stack dental clinic website featuring an advanced AI chatb
 
 ### 📅 **Smart Appointment System**
 - **Real-time Booking** with availability checking
+
+updated readme file
